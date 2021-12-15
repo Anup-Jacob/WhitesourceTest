@@ -5,7 +5,7 @@ Author			: Anup Jacob
 Created Date	: 16/10/2021
 Modified Date	: 16/10/2021
 Description		: A sample program to do the calculator function in Java for CI tools testing purpose
-			 	  The functionalities includes are addition, subtraction, multiplication, division and modulus. 
+			 	  The functionalities includes are addition, subtraction, multiplication, division and modulus.Added whitesource. 
 
 -----------------------------------------------------------------------------------------------------------
 */
